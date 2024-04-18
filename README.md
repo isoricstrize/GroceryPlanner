@@ -19,5 +19,6 @@ Grocery Planner is an app that helps you plan your shopping lists and displays t
 - toggle dark/light mode
 - change app current accent color
 - display the most frequently purchased products with different charts
+- settings data is stored in UserDefaults
   
 ![settings](https://github.com/isoricstrize/GroceryPlanner/assets/167362217/3297cf4c-e5af-4cb6-a55c-1395471ce214)
